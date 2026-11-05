@@ -1,6 +1,6 @@
 # Hey, I'm Bruno Lago 👋
 
-Software Engineering student at FIAP · Co-founder of [SYXS](https://syxs.com.br) · Building with AI, automation & code.
+Software Engineering student at FIAP · Founder of [SYXS](https://syxs.com.br) · Building with AI, automation & code.
 
 ---
 
